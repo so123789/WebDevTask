@@ -1,6 +1,6 @@
 # Mangalam HDPE Pipes – Product Page
 
-A responsive product detail page for **Mangalam HDPE Pipes**, built as a front-end assignment. No frameworks — just vanilla HTML, CSS, and JavaScript.
+A responsive product detail page for **Mangalam HDPE Pipes**, built as a front-end assignment. No frameworks — just vanilla HTML, CSS, and JavaScript. - Link: https://storied-rugelach-6e5c86.netlify.app/
 
 ---
 
