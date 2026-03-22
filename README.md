@@ -86,3 +86,6 @@ A few things that were intentionally added:
 
 ---
 
+
+Deployed link using Netlify : https://storied-rugelach-6e5c86.netlify.app/
+
